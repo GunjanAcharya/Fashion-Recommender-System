@@ -89,7 +89,7 @@ mypy-extensions==1.0.0
 namex==0.0.7
 networkx==2.6.3
 numexpr==2.8.6
-numpy==1.21.6
+numpy==1.23.5
 oauthlib==3.2.2
 openpyxl==3.0.10
 opt-einsum==3.3.0
