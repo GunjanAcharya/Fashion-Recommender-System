@@ -81,7 +81,7 @@ mccabe==0.6.1
 mdurl==0.1.2
 missingno==0.5.2
 mkl==2025.1.0
-mkl-service==2.4.0
+mkl-service==2.4.1
 mlxtend==0.23.0
 multimethod==1.9.1
 munkres==1.1.4
