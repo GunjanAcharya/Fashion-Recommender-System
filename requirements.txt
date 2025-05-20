@@ -44,7 +44,7 @@ gdown==4.7.1
 gitdb==4.0.12
 GitPython==3.1.44
 google-auth==2.26.1
-google-auth-oauthlib==0.4.1
+google-auth-oauthlib==0.5
 google-pasta==0.2.0
 graphviz==0.20.1
 grpcio==1.60.0
