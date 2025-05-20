@@ -25,7 +25,6 @@ click==7.1.1
 cloudpathlib==0.16.0
 colorama==0.4.6
 comtypes==1.1.10
-confection==0.1.4
 cryptography==45.0.2
 cycler==0.11.0
 cymem==2.0.8
