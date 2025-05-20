@@ -191,5 +191,6 @@ win-unicode-console==0.5
 wincertstore==0.2
 wordcloud==1.9.3
 wrapt==1.11.0
+ydata-profiling==4.1.2
 zipp==3.15.0
 zstandard==0.19.0
