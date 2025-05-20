@@ -15,7 +15,7 @@ blis==0.7.11
 brotlipy==0.7.0
 cached-property==1.5.2
 cachetools==5.5.2
-catalogue==2.0.10
+catalogue==1.0.0
 category-encoders==2.6.3
 certifi==2025.4.26
 cffi==1.15.1
@@ -147,7 +147,7 @@ six==1.17.0
 smart-open==6.4.0
 smmap==5.0.2
 soupsieve==2.4.1
-spacy==3.0.0
+spacy==2.3.9
 spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 srsly==2.4.8
